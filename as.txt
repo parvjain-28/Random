@@ -1,0 +1,3 @@
+        return x tell me one thing how like we are giving non linear functions here  means I wanted to know how we are introducing non linearity ? also in the paper of KANS they have mentioned that we are introducing non linearlity by learning these learnable functions like BSplines or in that way ? so I wanted to know about this like how they are using anything here ? also like are these learnable functions are same or differ like in case of MLP we are using same activation function or hyperparameter tunning we are changing those parameters so what in this case
+
+
