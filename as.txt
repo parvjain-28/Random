@@ -1,0 +1,23 @@
+https://learn.microsoft.com/en-us/credentials/certifications/operationalizing-machine-learning-and-generative-ai-solutions/?wt.mc_id=certposter_poster_wwl&practice-assessment-type=certification 
+
+https://tcscomprod.sharepoint.com/sites/AI.CloudAcademy/SitePages/AI-GenAI.aspx
+
+
+https://forms.cloud.microsoft/pages/responsepage.aspx?id=ZxlLQAdlq0WKbXN0o_R4viZNBF8OmEtInrdsHyI1_L1UMTczRk9CVUxVRjZFNUEyWkZCUVFTTE41Qy4u&route=shorturl
+
+
+The learned 3-channel representation is optimized for class discrimination rather than human perception.
+
+For CNN, FastKAN, and HybridSRF:
+
+The generated RGB visualizations are false-color representations of the learned primitive activations. The displayed colors should not be interpreted as natural scene colors. Instead, they represent the responses of the learned spectral primitives optimized for hyperspectral class discrimination.
+
+That's actually the scientifically correct interpretation.
+
+So my answer is:
+
+✅ Methodology is correct.
+
+✅ CNN, FastKAN, and HybridSRF are all generating feature visualizations rather than RGB reconstructions.
+
+✅ You do not need to force human-like colors unless your research goal specifically becomes RGB/CIE reconstruction instead of classification.
